@@ -8,4 +8,5 @@ This a Alibaba Cloud Product Icons Library for Draw.io. All the icons are downlo
 
 <img width="1410" alt="Draw io Open Library" src="https://user-images.githubusercontent.com/11677761/99338179-a6aa2d80-28be-11eb-937b-0ec2f919d2e8.png">
 
-![image](https://user-images.githubusercontent.com/11677761/99340183-795f7e80-28c2-11eb-96ee-19697b28bdaf.png)
+<img width="800" alt="Screenshot 2020-11-17 at 10 50 16 AM" src="https://user-images.githubusercontent.com/11677761/99340325-bc215680-28c2-11eb-9f5a-6aed4203951e.png">
+
